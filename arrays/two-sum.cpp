@@ -1,8 +1,3 @@
-// Problem: Two Sum
-// Platform: LeetCode
-// Approach: Hashmap (O(n))
-// Concept: Array + Hashing
-
 #include <bits/stdc++.h>
 using namespace std;
 
